@@ -1,4 +1,5 @@
-<a href="https://dsc-srmrmp.github.io/" target="_blank"></a>
+<a href="https://dsc-srmrmp.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/26855364/149650996-8e73bf39-983f-4d65-9f50-27e17bebf10c.png" width="100%" ></img></a>
+
 
 <h4 align="center">GDSC-SRM IST RMP is a student community powered by Google with the aim of making tech more accessible as well create an impact in the society through Open-Source technology. </h4>
 
