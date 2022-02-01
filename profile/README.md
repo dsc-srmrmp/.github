@@ -9,13 +9,17 @@
 
 <p align="center"> We at GDSC-SRM IST RMP :heart: Open-Source!</p>
 
+About us
+----
+Google Developer Student Club (GDSC) is a Google Developers program for university students to enhance their technical skills. The club will be open to any student, ranging from beginner developers to advanced developers who want to further their skills. The club is intended as a space for students to try out new ideas and collaborate to help each other out. 
+
 Get Involved
 ----
 Right now, our community is working on building some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
 - Feel free to contribute to any of our repositories. Check them out on our [GitHub](https://github.com/orgs/dsc-srmrmp/repositories).
 
-Visit [Our Wbsite](https://dsc-srmrmp.github.io/) to learn more about us!
+Visit [Our Website](https://dsc-srmrmp.github.io/) to learn more about us!
 
 <div align="center">
 <h3>Connect With us on</h3>
